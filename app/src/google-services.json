@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219532261732",
+    "project_id": "atacador-firebase",
+    "storage_bucket": "atacador-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219532261732:android:f6b1f0353a09b2439c6271",
+        "android_client_info": {
+          "package_name": "com.example.atacador_firebasefinalact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219532261732-9i1kbf9n7b80p26p962nsrj3hpjc7ok2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACIi91vC0HvDn1HfTRoiCp8TXh21Jf7CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219532261732-9i1kbf9n7b80p26p962nsrj3hpjc7ok2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
