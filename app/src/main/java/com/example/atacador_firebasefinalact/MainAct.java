@@ -65,8 +65,6 @@ public class MainAct extends AppCompatActivity {
         reference = firebaseDatabase.getReference("products");
         storageReference = FirebaseStorage.getInstance().getReference();
 
-
-
         addImage = findViewById(R.id.addImage);
         id = findViewById(R.id.id);
         name = findViewById(R.id.name);
